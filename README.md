@@ -1,2 +1,6 @@
-# twitterDepression
-Repository for a project using Twitter to document seasonal depression via changes in demeanor of tweets during different seasons
+# SDTracker
+SDTracker is an application built to track the effects of Seasonal Affective Disorder (Seasonal Depression) throught the use of the popular social media app Twitter.
+
+# Methods
+
+# Results
